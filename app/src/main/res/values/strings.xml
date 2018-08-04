@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Springfield MO</string>
+    <string name="events_string">Events</string>
+    <string name="restaurants_string">Restaurants</string>
+    <string name="parks_string">Parks</string>
+    <string name="mustsee_string">Must See!</string>
+    <string name="events_title">EVENTS</string>
+    <string name="restuarants_title">RESTAURANTS</string>
+    <sting name="parks_titles">PARKS</sting>
+    <string name="mustdo_titiel">MUST SEE!</string>
+
+
+</resources>
